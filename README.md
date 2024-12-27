@@ -1,16 +1,20 @@
-## Hola, soy Francisco 👋
+# 👋 Hola, soy Francisco
 
-<!--
-**franrucci/franrucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Acerca de mí
+
+- 🎓 Estudiante de Ingeniería en Sitemas Informáticos.  
+- 💻 Apasionado por la tecnologia, el desarrollo de software y la resolución de problemas.  
+- 🎯 Siempre buscando nuevas oportunidades para mejorar y crecer.  
+
+## 📫 Conecta conmigo
+
+- 💼 [LinkedIn](www.linkedin.com/in/francisco-rucci-607468257)  
+- 📧 [Correo Electrónico](franrucci01@gmail.com)  
+
+---
+
+¡Gracias por visitar mi perfil! 😊
