@@ -13,7 +13,7 @@
 
 ## 📫 Conecta conmigo
 
-- 💼 [LinkedIn](www.linkedin.com/in/francisco-rucci-607468257)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/francisco-rucci-607468257/)  
 - 📧 [Correo Electrónico](mailto:franrucci01@gmail.com)  
 
 ---
