@@ -11,7 +11,7 @@
 - 💻 Apasionado por la tecnologia, el desarrollo de software y la resolución de problemas.  
 - 🎯 Siempre buscando nuevas oportunidades para mejorar y crecer.  
 
-## 📫 Conecta conmigo
+## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisco-rucci-607468257/)  
 - 📧 [Correo Electrónico](mailto:franrucci01@gmail.com)  
