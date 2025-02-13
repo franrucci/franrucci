@@ -7,7 +7,7 @@
 ## 🚀 Acerca de mí
 
 - 🌍 Soy de **Rosario, Santa Fe, Argentina**.  
-- 🎓 Estudiante de Ingeniería en Sitemas Informáticos.  
+- 🎓 Estudiante de Ingeniería en Sistemas Informáticos.  
 - 💻 Apasionado por la tecnologia, el desarrollo de software y la resolución de problemas.  
 - 🎯 Siempre buscando nuevas oportunidades para mejorar y crecer.  
 
